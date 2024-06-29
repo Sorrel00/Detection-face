@@ -1,0 +1,5 @@
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+pip install cvzone==1.5.6 (or normal)
+pip install ultralytics==8.0.147 (or normal)
+pip install mediapipe==0.10.3 (or normal)

@@ -1,0 +1,1 @@
+print(f'Total: {lenData} Split: {lenTrain} {lenVal} {lenTest}')
